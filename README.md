@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Julian 👋
 
-<!--
-**JulianFisla/JulianFisla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🌱
+- 🎓 I'm currently studying Math and Physical Sciences at the University of Toronto.
+- 💻 I'm passionate about machine learning, data science, and AI.
+- 🌟 I'm well-versed in Python, Java, and React.
+- 📫 How to reach me: jfislayt@gmail.com.
 
-Here are some ideas to get you started:
+## My Projects 🔭
+- [Chat-Messenger-App] (https://github.com/JulianFisla/Chat-Messenger-App) - Basic networking and chat system prototype.
+- [Fighter-Game] (https://github.com/JulianFisla/fightergame) - 2D Fighter Game with machine learning features for enemy actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JulianFisla](https://github-readme-stats.vercel.app/api?username=[JulianFisla]&show_icons=true&theme=[light])
