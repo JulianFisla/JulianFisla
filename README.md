@@ -9,5 +9,3 @@
 ## My Projects 🔭
 - [Chat-Messenger-App](https://github.com/JulianFisla/Chat-Messenger-App) - Basic networking and chat system prototype.
 - [Fighter-Game](https://github.com/JulianFisla/fightergame) - 2D Fighter Game with machine learning features for enemy actions.
-
-![JulianFisla's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianFisla&show_icons=true&theme=radical)
