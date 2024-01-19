@@ -1,7 +1,7 @@
 # Hello, I'm Julian 👋
 
 ## About Me 🌱
-- 🎓 I'm currently studying Math and Physical Sciences at the University of Toronto..
+- 🎓 I'm currently studying Math and Physical Sciences at the University of Toronto.
 - 💻 I'm passionate about machine learning, data science, and AI.
 - 🌟 I'm well-versed in Python and Java.
 - 📫 How to reach me: jfislayt@gmail.com.
