@@ -8,4 +8,4 @@
 
 ## My Projects 🔭
 - [Chat-Messenger-App](https://github.com/JulianFisla/Chat-Messenger-App) - Basic networking and chat system prototype.
-- [Fighter-Game](https://github.com/JulianFisla/fightergame) - 2D Fighter Game with machine learning input/output for enemy actions.
+- [Fighter-Game](https://github.com/JulianFisla/fightergame) - 2D Fighter Game with machine learning input/output for enemy actions.a
